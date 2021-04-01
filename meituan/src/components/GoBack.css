@@ -1,0 +1,18 @@
+.header{
+  width: 100%;
+  background: #ddd;
+  margin-bottom: 20px;
+  position: relative;
+}
+.header button{
+  position: absolute;
+  height: 24px;
+  margin-top: 8px;
+  left: 0;
+}
+.header h4{
+  text-align: center;
+  font-size: 24px;
+  line-height: 40px;
+  margin: 0;
+}

@@ -1,0 +1,17 @@
+.index-footer{
+  width: 100%;
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+.index-footer a{
+  flex: 1;
+  font-size: 26px;
+  line-height: 50px;
+  text-align: center;
+}
+.active{
+  background: pink;
+  color: coral;
+}
